@@ -1,0 +1,8 @@
+viajesapi\Customer.class
+com\soapapi\SoapApi\CustomerRepository.class
+viajesapi\GetCustomerRequest.class
+viajesapi\ObjectFactory.class
+viajesapi\GetCustomerResponse.class
+viajesapi\package-info.class
+com\soapapi\SoapApi\SoapApiApplication.class
+com\soapapi\SoapApi\ViajesEndpoint.class
